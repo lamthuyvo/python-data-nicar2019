@@ -3,7 +3,7 @@
 
 *Coach:* Lam Thuy Vo, BuzzFeed News
 
-*Description:* An introduction to the Python programming language for absolute beginners. This class will cover basic fundamentals and syntax to prepare you for more advanced classes with a focus on data processing and analysis. This session is good for: People who are comfortable working with data in spreadsheets or database managers and want to make the leap to programming.
+*Description:* Learning a programming language is much like learning to write a news story. There are certain styles and conventions to follow, a standard order, etc. In this session geared toward absolute beginners, we’ll get started with some of the basics of this new language. This session is good for: People who are comfortable working with data in spreadsheets or database managers and want to make the leap to programming.
 
 ### Python 2: Intro to data analysis using pandas
 *Teacher:* Lam Thuy Vo, Buzzfeed News
