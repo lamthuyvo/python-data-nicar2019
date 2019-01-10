@@ -1,5 +1,7 @@
-### Python 2: Intro to data analysis using pandas
-**Teacher:** Lam Thuy Vo, BuzzFeed News
+## Python 2: Intro to data analysis using pandas
+*Teacher:* Lam Thuy Vo, BuzzFeed News
+
+*Coach:* Karrie Kehoe, International Consortium of Investigative Journalists
 
 **Coach:** Karrie Kehoe, International Consortium of Investigative Journalists
 
