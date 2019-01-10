@@ -40,3 +40,4 @@ Thumbs.db
 #########
 pyvenv/
 python2/data/iranian_tweets_csv_hashed.csv
+python2/venv/
